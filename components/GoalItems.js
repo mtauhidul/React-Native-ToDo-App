@@ -24,6 +24,7 @@ function GoalItems({ goals, deleteItemHandler }) {
 const styles = StyleSheet.create({
   goalsContainer: {
     flex: 6,
+    marginTop: 10,
   },
 });
 
